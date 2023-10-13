@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/chat-amanda/static/css/main.032ffaa8.css",
+    "main.js": "/chat-amanda/static/js/main.85f76b87.js",
+    "index.html": "/chat-amanda/index.html",
+    "main.032ffaa8.css.map": "/chat-amanda/static/css/main.032ffaa8.css.map",
+    "main.85f76b87.js.map": "/chat-amanda/static/js/main.85f76b87.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.032ffaa8.css",
+    "static/js/main.85f76b87.js"
+  ]
+}
